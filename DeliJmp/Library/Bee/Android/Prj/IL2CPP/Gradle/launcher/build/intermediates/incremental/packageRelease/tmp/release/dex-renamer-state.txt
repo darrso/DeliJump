@@ -1,0 +1,4 @@
+#Mon Jan 29 19:54:03 MSK 2024
+base.0=D\:\\darrso\\projects\\unity\\doodle-clone\\DeliJump\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
